@@ -1,0 +1,60 @@
+{
+  "Name": "Meal Lice",
+  "Description": "An unusually motile, flavorless grain.",
+  "Category": "Vegetable",
+  "Edibility": 5,
+  "Price": 15,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_sand",
+  ],
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": ["Krobus"],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", 
+        "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Gus", "Willy"],
+    },
+  "NameLocalization":
+  {
+    "default":"Meal Lice",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"An unusually motile, flavorless grain.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

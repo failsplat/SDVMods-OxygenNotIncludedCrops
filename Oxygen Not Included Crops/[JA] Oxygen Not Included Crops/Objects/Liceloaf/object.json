@@ -1,0 +1,72 @@
+{
+  "Name": "Liceloaf",
+  "Description": "Meal lice immobilized into a dense, lumpy loaf. Filling, but not flavorful.",
+  "Category": "Cooking",
+  "Edibility": 15,
+  "Price": 50,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": {
+      "ResultCount": 1,
+      "Ingredients": 
+      [
+        {
+            "Object": "Meal Lice",
+            "Count": 3,
+        },
+      ],
+      "IsDefault": false,
+      "CanPurchase": false,
+      "SkillUnlockName": "Foraging",
+      "SkillUnlockLevel": 2,
+  },
+  "ContextTags":
+  [
+    "color_sand",
+  ],
+  "GiftTastes":
+  {
+      "Love": [],
+      "Like": ["Krobus"],
+      "Neutral": [],
+      "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", 
+      "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Gus", "Willy"],
+  },
+  "NameLocalization":
+  {
+    "default":"Liceloaf",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"Meal lice immobilized into a dense, lumpy loaf. Filling, but not flavorful.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
