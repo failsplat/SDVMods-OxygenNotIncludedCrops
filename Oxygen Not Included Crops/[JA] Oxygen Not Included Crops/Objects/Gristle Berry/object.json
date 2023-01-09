@@ -1,0 +1,72 @@
+{
+  "Name": "Gristle Berry",
+  "Description": "A grilled bristle berry. The heat brought out an exquisite, but also charred the spiny exterior into a tangle of jagged shards.",
+  "Category": "Cooking",
+  "Edibility": 18,
+  "Price": 60,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": {
+      "ResultCount": 1,
+      "Ingredients": 
+      [
+        {
+            "Object": "Bristle Berry",
+            "Count": 1,
+        },
+      ],
+      "IsDefault": false,
+      "CanPurchase": false,
+      "SkillUnlockName": "Foraging",
+      "SkillUnlockLevel": 2,
+  },
+  "ContextTags":
+  [
+    "color_dark_green",
+  ],
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": ["Demetrius", "Elliot", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Maru", "Vincent"],
+        "Hate": [],
+    },
+  "NameLocalization":
+  {
+    "default":"Gristle Berry",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A grilled bristle berry. The heat brought out an exquisite, but also charred the spines into jagged shards.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

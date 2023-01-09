@@ -1,0 +1,59 @@
+{
+  "Name": "Bristle Berry",
+  "Description": "An edible bud, with a pleasantly sweet interior guarded by prickles and a plume of stiff hair.",
+  "Category": "Fruit",
+  "Edibility": 12,
+  "Price": 60,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_jade",
+  ],
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": ["Demetrius", "Elliot", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Maru", "Vincent"],
+        "Hate": [],
+    },
+  "NameLocalization":
+  {
+    "default":"Bristle Berry",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"An edible bud, with a pleasantly sweet interior guarded by prickles and a plume of stiff hair.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
